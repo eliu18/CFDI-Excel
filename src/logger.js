@@ -9,6 +9,7 @@ log4js.configuration = logger_config;
 process.on('uncaughtException', function (err) {
   log4js.getLogger("uncaughtException").error(err.name, err.message, "\n", err.stack);
   if (typeof global.it !== 'function') { // if not running mocha should exit.
+    console.log("Error del programa");
     log4js.shutdown(function () { process.exit(1); });
   }
 });
@@ -18,6 +19,7 @@ let log = log4js.getLogger("logger");
 try {
   logger_levels = require('../logger.levels.json');
 } catch (e) {
+  logger_levels = { };
   log.warn("Can't load local logger.levels.json (probably doesn't exist.)", e)
 }
 

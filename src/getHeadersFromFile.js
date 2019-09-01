@@ -1,9 +1,10 @@
 let fs = require("fs");
-let FileText = './data/Headers_ex2.txt';
-
+const getLogger = require('./logger');
+const log = getLogger('main');
 
 function readFile(file) {
     return new Promise((resolve, reject) => {
+        log.debug('reading file:',file);
         fs.readFile(file, 'utf8', (error, data) => {
             if (error)
                 reject(error);
@@ -16,6 +17,8 @@ function readFile(file) {
 }
 
 function getHeadersFromFile(path) {
+    if(!path) throw Error("getHeadersFromFile debe recibir un nombre de archivo");
+    log.debug("Error llamada desde getHeaaderFromFile",path);
     return readFile(path).then((data) => {
         let headers = {
             headers: [],

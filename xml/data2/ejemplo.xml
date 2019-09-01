@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante LugarExpedicion="MEXICO DF" NumCtaPago="NO IDENTIFICADO" certificado="MIIG7DCCBNSgAwIBAgIUMDAwMDEwMDAwMDA0MDM5NDMzMzAwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTYxMDEyMjMzNjQ3WhcNMjAxMDEyMjMzNjQ3WjCCAYsxSTBHBgNVBAMTQEJBTkNPIFNBTlRBTkRFUiAoTUVYSUNPKSBTLkEuLCBJTlNUSVRVQ0lPTiBERSBCQU5DQSBNVUxUSVBMRSwgR1IxaDBmBgNVBCkTX0JBTkNPIFNBTlRBTkRFUiAoTUVYSUNPKSBTLkEuLCBJTlNUSVRVQ0lPTiBERSBCQU5DQSBNVUxUSVBMRSwgR1JVUE8gRklOQU5DSUVSTyBTQU5UQU5ERVIgTUVYSUNPMUkwRwYDVQQKE0BCQU5DTyBTQU5UQU5ERVIgKE1FWElDTykgUy5BLiwgSU5TVElUVUNJT04gREUgQkFOQ0EgTVVMVElQTEUsIEdSMSUwIwYDVQQtExxCU005NzA1MTlEVTggLyBSVUFSNTgwNzAzUkgxMR4wHAYDVQQFExUgLyBSVUFSNTgwNzAzTURGWkNTMDkxQjBABgNVBAsTOUJBTkNPIFNBTlRBTkRFUiAoTUVYSUNPKSBTQSBJTlNUSVRVQ0lPTiBERSBCQU5DQSBNVUxUSVBMRTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIV+N9DLg4ALwSR2Rumr2fd4pPieh7G1LJyfXAH8nypJ36NcCOi06ia4GBSSWmYFq0PEt2qUkGLpPhZHAOVV/BTQGCW6WcLWMHSJOCvLQWwmtjnuSXJ8acaUElT9rAL0CAk9+YhfqcBT+UuxVdHBjEmOMRsa6xyz/EE/yftWZQYvPgTyymrpj6/WFMj0UWvFQx+upskktxx6FGc2XEjtQ8R2dfptVpQnLmz6XZ8mdGNDAv2SFAY2rg3PS6q+Alb8SgijUhNjixsu7+GjJnJpGpoHA7OSLzXa4k27KlpSoQEZf/yoL8AoLL5HJDQvqw7dSCvZacNAq4zHu1g/O0iNKZMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAK/7iivmAfPiCwhCVybNQTVOsxdTnXY9pW55oCriY26cX93EKJzvz5RUgQOenfW7Uf1W+aHi9W9SEJEdBUeTrXXTq4DXZiRktPzkmjfP7m+RT+oqwyYVWZWMYYGWl4vWTjKhA/bS8CM51/JATj5ux68R7suooGCpaij7rxb1FHPGk6B2LUu0+JgiZFLHi9p5aG7D0oIaTlU9lGgwLy1gP8Duyp+tas3ZKuWLXavGJv3T5yY6sKN8bAM40Ut2XfMcKhbKv+BfJxiZIduSqffCzRx3RWIywUzTyzNH4aDTPCVKnAIZZNHM/GGzrTJ2KC8xRf0K56Yf98Bli+7LPxon2q+RGeVJc/Mk8ns3ou0S7OKvDkTY9Gb0vCUrDrWr2K2xV85K9c5lpw3nF+huKufqYOjVGQ+ZsMzpAEdjzkOJKQ1YgFGh7TfBfJr+14VrRtDMFkIqP1k+wym2XVQk69y5IoJXu6FtW+5rko/3Zn9+ydaOAHR6V0DfeFZxww6arTSTUO/FFnARWoAGsO4jPyqdLD6+pQHJ7nEpZVSaJNCJ3sySyZrEPWZ2yqQaXspULI6xqgINfGKsLgOD1OPR1ljQpUTbUVizws2bfApeX5m6CQni7QCRUgQt6g8AOF4KlrchYoSVKq247vunFZeJ2M7ot0QrJhE7Wz8tNZANgskIDUkF" 
+fecha="2017-01-01T00:46:22" folio="60552617394" 
+formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="99" 
+noCertificado="00001000000403943330" sello="H2WHsosy+R8PgOMC0Il/xj8oRymX33Y2oXF7GEDCDazkMR01YpDvlG5E04eqEcXVV/z7b+AGrE+Mp50tX4XDfmck5tKLdro6xJZjaD46rxrXaEbQegc0JqL/hUyr6ExDj6IfGQJDwMegjgcQmPZO7DdhWe220Z+p+yxRh46J+htGOnQtN6MlviY2X+r10MsPLByYJTtQwmgohBQDzHHP0Icato7OtPLqx93aO58hBHm8uFVBGL6qejG40yhLeKHqMAAnjwV8Y3N94co2E5bSMEeYzX2lSW4JuLuVCR/GnNJLXVzNSaa9C+OIb+aIrJPmE7PZCoWM3JaVYwX7w0diiQ==" 
+subTotal="0.00" tipoDeComprobante="ingreso" descuento="10.00" total="0.00" version="3.2" 
+xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.santander.com.mx/addendaECB http://www.santander.com.mx/cfdi/addendaECB.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:Santander="http://www.santander.com.mx/addendaECB"
+ xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor nombre="BANCO SANTANDER (MEXICO), S.A.INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER MEXICO" rfc="BSM970519DU8">
+    <cfdi:DomicilioFiscal calle="PROLONGACION PASEO DE LA REFORMA " codigoPostal="01219" colonia="LOMAS DE SANTA FE" estado="CIUDAD DE MÉXICO" municipio="ALVARO OBREGON" noExterior="500" noInterior="PISO 2 MOD 206" pais="MEXICO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="JOSE NOEL DEL ANGEL DEL ANGEL" rfc="AEAN581126874">
+    <cfdi:Domicilio calle="CHAIREL 204" codigoPostal="00089250" colonia="EX COUNTRY CLUB" estado="TAMAULIPAS" municipio="TAMPICO" pais="MEXICO" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" descripcion="SIN CARGOS" importe="0.00" unidad="SERVICIO" valorUnitario="0.00" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="0.00">
+    <cfdi:Retenciones>
+      <cfdi:Retencion importe="0.00" impuesto="ISR" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0.00" impuesto="IVA" tasa="16.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital version="1.0" UUID="462891BD-82D5-4754-9EC2-EBC0F9F423F3" FechaTimbrado="2017-01-01T00:46:37" selloCFD="H2WHsosy+R8PgOMC0Il/xj8oRymX33Y2oXF7GEDCDazkMR01YpDvlG5E04eqEcXVV/z7b+AGrE+Mp50tX4XDfmck5tKLdro6xJZjaD46rxrXaEbQegc0JqL/hUyr6ExDj6IfGQJDwMegjgcQmPZO7DdhWe220Z+p+yxRh46J+htGOnQtN6MlviY2X+r10MsPLByYJTtQwmgohBQDzHHP0Icato7OtPLqx93aO58hBHm8uFVBGL6qejG40yhLeKHqMAAnjwV8Y3N94co2E5bSMEeYzX2lSW4JuLuVCR/GnNJLXVzNSaa9C+OIb+aIrJPmE7PZCoWM3JaVYwX7w0diiQ==" noCertificadoSAT="00001000000202865018" selloSAT="kWKLAZqb9hJpmCooQ/rtcW8cIbWBqYtBfdkUtx1Dt+ksS6o4JzNH5kSmMabhHb7IiId/DMR/1dneKoc06PGcSDzpA9bOjlRARwBDV4VQvvT8p3+V7e8b2CHWyd6NZx9SfCAkzXs+KvQ0J0u/+ZP/+Y/aFhX+884ozl/lQHcUq/E=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

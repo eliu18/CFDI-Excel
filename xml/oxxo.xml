@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" 
+xmlns:bfa2="http://www.buzonfiscal.com/ns/addenda/bf/2" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+LugarExpedicion="AVE.CHAIREL #300 EX CONTRY CLUB, TAMPICO TAMAULIPAS" 
+metodoDePago="04" tipoDeComprobante="ingreso" total="106.50" subTotal="92.71" 
+certificado="MIIEqjCCA5KgAwIBAgIUMDAwMDEwMDAwMDAyMDMzNDI1ODkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEzMDMyOTE2MjYxNloXDTE3MDMyOTE2MjYxNlowgesxJzAlBgNVBAMTHkNBREVOQSBDT01FUkNJQUwgT1hYTyBTQSBERSBDVjEnMCUGA1UEKRMeQ0FERU5BIENPTUVSQ0lBTCBPWFhPIFNBIERFIENWMScwJQYDVQQKEx5DQURFTkEgQ09NRVJDSUFMIE9YWE8gU0EgREUgQ1YxJTAjBgNVBC0THENDTzg2MDUyMzFONCAvIFBFUE82MTAyMDNBRTIxHjAcBgNVBAUTFSAvIFBFUE82MTAyMDNIVFNSUlMwNjEnMCUGA1UECxMeQ0FERU5BIENPTUVSQ0lBTCBPWFhPIFNBIERFIENWMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDnCL8LtA65i88UY+sUTEJEd8X1tn8KRagLIE8rOlaMaDGDfRwsNa4y13FH6k7JBkJfwwLX4yVlt7G3fgkUxYSnVt4ch9KSbYcRc2d7ope+Jwd+n50YzuLRGqq6khkVRuif4eSrvx4Qb9Ym9Hk7XeqDGkhHJHB0QLT59F4az3n0swIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAliDxGm+8Qa3lAq8IDvo5U+LUKDB9Z5ZgYpA911kO5Pb3mMazzFIQgm/alKfzhe8wWPCCAfILOt2SeEGxRUBfmfyeeUmRKGcCJ8wAfQToyd4wM5jsWG04vHpiu13DUxF98wNDwirZhBxkwCVXvQ51q5D3tAzM9cIR5LGo2QHezCdeRDf6GCsq+zon9rHmxIH1o9WMgUSrTAAgFOR2drOUuI0AgbAHKPfXEpQFSzjSkLTpezElbwI/e9uAZyZJwHUns0yKmLMuEfk6mY/BLgrPRghQ/XZh7v56lDXVRmG/upxla50kYeflQeuZb9HvCXUoMqIhiUulBP7vli0KNaBLZg==" noCertificado="00001000000203342589" 
+formaDePago="PAGO EN UNA SOLA EXHIBICION" sello="W/GT4JuGjvzYQ56/bOIz7DIhke7evDmMQnRkVzNYbkOmpWDIAWi2xNLGM64rpcm8+GAgdFQURaRl4AW5HiULy+BnkjP/QcOyekygFwJpkWHfm84IJyCFxxhvysEJT2qxyARJbgLuuINNL7ZzT4CJ6+2p/W1jbJOw/24iDRcT/HM="
+ fecha="2017-01-09T21:50:16" folio="173235476" serie="TMP" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.buzonfiscal.com/ns/addenda/bf/2 http://www.buzonfiscal.com/schema/xsd/Addenda_BF_v20.xsd">
+  <cfdi:Emisor nombre="CADENA COMERCIAL OXXO, S.A. DE C.V." rfc="CCO8605231N4">
+    <cfdi:DomicilioFiscal codigoPostal="64480" pais="MEXICO" estado="NUEVO LEON" municipio="MONTERREY" colonia="TALLERES" noExterior="1235 NORTE" calle="EDISON" />
+    <cfdi:ExpedidoEn codigoPostal="89250" pais="MEXICO" calle="AVE.CHAIREL #300 EX CONTRY CLUB, TAMPICO TAMAULIPAS" />
+    <cfdi:RegimenFiscal Regimen="No Aplica" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="jose noel del angel del angel" rfc="AEAN581126874">
+    <cfdi:Domicilio codigoPostal="89390" pais="MEXICO" municipio="PANUCO VERACRUZ" calle="dom.con.r.san jose cong.la trinidad" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto importe="86.21" valorUnitario="86.21" descripcion="TELCEL TAE 100" unidad="EA" cantidad="1.000" />
+    <cfdi:Concepto importe="6.50" valorUnitario="6.50" descripcion="HALLS MIEL 25.2G" unidad="EA" cantidad="1.000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="13.79">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="13.79" tasa="16.00" impuesto="IVA" />
+      <cfdi:Traslado importe="0.00" tasa="0.00" impuesto="IVA" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" selloSAT="Y20FdkrBQZ1KnZIIpWads2WEXTtmgf6b+xJ3I4xUGToD81VM6fZZqzJTY2qxKGtKrNKX8JPEKUMDd2IJp8sBSDiU2fUQFU6Ya/AI5m5C+MatjwPbbCiWiOID4+vUIymhQTHJOvPBVdmM6EMWjz5fFv+XCYIU9IRuv8Q1NpAgSHHVrSaMDIEstAJe6yuT4qspd7D7NOhtdJAzmU4MAoGqJloveUt5eAM7J7njOQddNQzsX21bWzAGYsCYmGBhnzoZ0LKvhbMDbsuG/k2qqAihVZfa8QkEmlHqYeYveYFeKRaPlXfuWs3S0vYdIkVqzh1l3yy80EBwTWOFfVXO4CcZqw==" noCertificadoSAT="00001000000404614920" selloCFD="W/GT4JuGjvzYQ56/bOIz7DIhke7evDmMQnRkVzNYbkOmpWDIAWi2xNLGM64rpcm8+GAgdFQURaRl4AW5HiULy+BnkjP/QcOyekygFwJpkWHfm84IJyCFxxhvysEJT2qxyARJbgLuuINNL7ZzT4CJ6+2p/W1jbJOw/24iDRcT/HM=" FechaTimbrado="2017-01-09T21:50:16" 
+    UUID="7d6eb56e-2a47-4993-a039-cf9b93bf1d14" version="1.0" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+
